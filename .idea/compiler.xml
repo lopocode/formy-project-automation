@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TestSample" />
+        <module name="KeyboardAndMouserInput" />
+        <module name="SwitchToActiveWindow (1)" />
+        <module name="Form (7)" />
+        <module name="Datepicker (1)" />
+        <module name="ExecuteJavascript (1)" />
+        <module name="SwitchToAlert (1)" />
+        <module name="Autocomplete (2)" />
+        <module name="DragAndDrop (1)" />
+        <module name="Radiobuttons (2)" />
+        <module name="Autocomplete (4)" />
+        <module name="Autocomplete (6)" />
+        <module name="Dropdown (1)" />
+        <module name="FileUpload (1)" />
+        <module name="ScrollToElement (1)" />
+        <module name="Form (4)" />
+        <module name="Form (2)" />
+        <module name="Form (8)" />
+        <module name="SwitchToActiveWindow (2)" />
+        <module name="Datepicker (2)" />
+        <module name="Form (6)" />
+        <module name="SauceLabsExample" />
+        <module name="SwitchToAlert (2)" />
+        <module name="ExecuteJavascript (2)" />
+        <module name="DragAndDrop (2)" />
+        <module name="Radiobuttons (1)" />
+        <module name="Autocomplete (3)" />
+        <module name="Autocomplete (5)" />
+        <module name="Dropdown (2)" />
+        <module name="FileUpload (2)" />
+        <module name="Form (1)" />
+        <module name="KeyboardAndMouseInput" />
+        <module name="ScrollToElement (2)" />
+        <module name="Form (5)" />
+        <module name="Autocomplete (1)" />
+        <module name="Form (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Autocomplete" target="1.5" />
+      <module name="Datepicker" target="1.5" />
+      <module name="DragAndDrop" target="1.5" />
+      <module name="Dropdown" target="1.5" />
+      <module name="ExecuteJavascript" target="1.5" />
+      <module name="FileUpload" target="1.5" />
+      <module name="Form" target="1.5" />
+      <module name="Radiobuttons" target="1.5" />
+      <module name="ScrollToElement" target="1.5" />
+      <module name="SwitchToActiveWindow" target="1.5" />
+      <module name="SwitchToAlert" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
